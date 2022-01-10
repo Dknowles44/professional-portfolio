@@ -1,0 +1,30 @@
+:root {
+    --primary-color: #541212;
+    --secondary-color: #EEEEEE;
+    --tertiary-color: #0F0E0E;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: #0F0E0E;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* Header / Nav bar style starts */
+
+header {
+    padding: 20px 35px;
+    background-color: #EEEEEE;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    
+}
