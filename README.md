@@ -7,7 +7,8 @@ A website to show the skills I have aquired for potential employers.
 *HTML
 *CSS
 
-## Websit
+## Website
+https://dknowles44.github.io/professional-portfolio/
 
 
 ## Contribution
